@@ -18,6 +18,7 @@ make
 Type: `./sgm dir p1 p2`
 
 The arguments `p1` and `p2` are semi-global matching parameters, for more information read the SGM paper.
+p1 is set to be 7 and p2 is set to be 100, for large scale sgm for only cpu, so you can try it. But if it works badly, you can change other values to get a try.
 
 `dir` is the name of the directory which needs this format:
 
